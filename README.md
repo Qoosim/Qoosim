@@ -3,7 +3,7 @@
                                             Hi, 👋 I'm Qoosim AbdulGhaniyy from Nigeria 🇳🇬
                                                      Full-Stack-Developer
                                                           
-Ever since I have come to understand the importance of technologies in the world we live in, I have begun to fill myself with the knowledge related to software development. I share and gain this knowledge every day in various projects I do. I am always ready to help and contribute to my team. I am very passionate about front-end, back-end and UI/UX design.
+Ever since I have come to understand the importance of technologies in the world we live in, I have begun to fill myself with the knowledge related to software development. I share and gain this knowledge every day in various projects I do. I am always ready to help and contribute to my team. I am very passionate about front-end, back-end and UI/UX design. I am available for hire
 
 
 Here are some things you should know:
