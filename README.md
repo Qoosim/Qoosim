@@ -12,7 +12,7 @@ Here are some things you should know:
 - 🌱 Getting better at: Ruby, Ruby on Rails, Javascript and Redux
 - 💬 Ask me about: Software Architectural Patterns, Front-end Development, Back-end Development, etc.
 - ⚡ Fun fact: I challenge you to work with me to disrupt!
-- 📫 Reach me out via: Shoot a mail at ayinde.abdulghaniyy@gmail.com
+- 📫 Reach me out via: ayinde.abdulghaniyy@gmail.com
 
 Welcome to my profile, You can follow-and-star me if my works are interesting.
 
