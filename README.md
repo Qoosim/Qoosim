@@ -5,8 +5,8 @@
 Ever since I have come to understand the importance of technologies in the world we live in, I have begun to fill myself with the knowledge related to software development. I share and gain this knowledge every day in various projects I do. I am always ready to help and contribute to my team. I am very passionate about front-end and back-end. I am available for hire and ready to relocate or work remotely.
 
 ## About me
-```
-<font color="orange">const</font> aboutMe = {
+```diff
+const aboutMe = {
    pronouns: "he" | "him",
    code: [Redux | React | JavaScript | HTML | CSS],
    technologies: {
@@ -23,7 +23,7 @@ Ever since I have come to understand the importance of technologies in the world
    Contact: ["ayinde.abdulghaniyy@gmail.com."],
 };
 
-```
+```diff
 
 Welcome to my profile, You can follow-and-star me if my works are interesting.
 
