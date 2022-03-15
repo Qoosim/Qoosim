@@ -6,7 +6,7 @@ Ever since I have come to understand the importance of technologies in the world
 
 ## About me
 ```
-const aboutMe = {
+<font color="orange">const</font> aboutMe = {
    pronouns: "he" | "him",
    code: [Redux | React | JavaScript | HTML | CSS],
    technologies: {
