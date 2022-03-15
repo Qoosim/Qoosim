@@ -1,11 +1,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Qoosim.visitor-badge)
 
-# Hi, 👋 I'm Qoosim || Front-End-Developer
+## Hi, 👋 I'm Qoosim || Front-End-Developer
                                                           
 Ever since I have come to understand the importance of technologies in the world we live in, I have begun to fill myself with the knowledge related to software development. I share and gain this knowledge every day in various projects I do. I am always ready to help and contribute to my team. I am very passionate about front-end and back-end. I am available for hire and ready to relocate or work remotely.
 
-## About me
-```
+### About me
+````
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Redux | React | JavaScript | HTML | CSS],
@@ -23,13 +23,11 @@ const aboutMe = {
    Contact: ["ayinde.abdulghaniyy@gmail.com."],
 };
 
-```
+````
 
-Welcome to my profile, You can follow-and-star me if my works are interesting.
+### Language Used
 
-## Language Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qoosim&layout=compact)](https://github.com/Qoosim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoosim&hide=python,ruby,CoffeeScript,Shell&langs-count=8&layout=compact)](https://github.com/qoosim/github-readme-stats)
 
 ## My GitHub stats
 
