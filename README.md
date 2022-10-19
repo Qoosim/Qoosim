@@ -2,7 +2,7 @@
 
 ## Hi, 👋 I'm Qoosim || Front-End-Developer
                                                           
-Ever since I have come to understand the importance of technologies in the world we live in, I have begun to fill myself with the knowledge related to software development. I share and gain this knowledge every day in various projects I do. I am always ready to help and contribute to my team. I am very passionate about front-end. I am available for hire and ready to relocate or work remotely.
+Ever since I have come to understand the importance of technologies in the world we live in, I have begun to fill myself with the knowledge related to software development. I share and gain this knowledge every day in various projects I build. I am always ready to help and contribute to my team. I am very passionate about front-end. I am available for hire and ready to relocate or work remotely.
 
 ### About me
 ````
