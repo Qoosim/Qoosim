@@ -1,8 +1,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Qoosim.visitor-badge)
 
 ## Hi, 👋 I'm Qoosim || Front-End-Developer
-                                                          
-Ever since I have come to understand the importance of technologies in the world we live in, I have begun to fill myself with the knowledge related to software development. I share and gain this knowledge every day in various projects I build. I am always ready to help and contribute to my team. I am very passionate about front-end. I am available for hire and ready to relocate or work remotely.
+
+Whether figuring out a difficult problem or crafting a beautiful user experience, as a Front End Developer, programming satisfies my desire for both constant learning and personal ongoing refinement. While I’m not coding, I love reading amazing books on psychology, learning a new language, or just researching on other languages. I am available for hire and ready to relocate or work remotely.
 
 ### About me
 ````
