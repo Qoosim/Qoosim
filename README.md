@@ -15,7 +15,7 @@ const aboutMe = {
          css: ["Bootstrap 5" | "Tailwindcss" | "Material UI"]
       },
       backEnd: {         
-         js: ["NodeJS - Loading..."]       
+         js: ["NodeJS"]       
       },
       databases: ["Loading..."],      
    },
