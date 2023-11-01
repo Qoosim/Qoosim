@@ -8,18 +8,18 @@ Whether figuring out a difficult problem or crafting a beautiful user experience
 ````
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Redux | React | JavaScript | HTML | CSS],
+   code: [React | React | NextJS | JavaScript | HTML | CSS | Tailwind CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap 5" | "Tailwindcss" | "Material UI"]
+         js: ["React" | "NextJS"],
+         css: ["Bootstrap 5" | "Tailwind CSS"]
       },
       backEnd: {         
          js: ["NodeJS"]       
       },
       databases: ["Loading..."],      
    },
-   currentOccupation: ["Microverse student"],
+   currentOccupation: ["Microverse student" | "Juubix"],
    Contact: ["ayinde.abdulghaniyy@gmail.com."],
 };
 
