@@ -15,11 +15,11 @@ const aboutMe = {
          css: ["Bootstrap 5" | "Tailwind CSS"]
       },
       backEnd: {         
-         js: ["NodeJS"]       
+         js: ["Node.js" | "Express.js"]       
       },
-      databases: ["SQL, Postgres, MongoDB"],      
+      databases: ["SQL" | "Postgres" | "MongoDB"],      
    },
-   currentOccupation: ["Microverse student" | "Juubix"],
+   currentOccupation: ["Microverse graduate" | "Juubix"],
    Contact: ["ayinde.abdulghaniyy@gmail.com."],
 };
 
