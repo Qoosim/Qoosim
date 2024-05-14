@@ -8,7 +8,7 @@ I am a full stack web developer with a passion for creating seamless and visuall
 ````
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [React | React | NextJS | JavaScript | HTML | CSS | Tailwind CSS],
+   code: [ React | NextJS | JavaScript | HTML | CSS | Tailwind CSS ],
    technologies: {
       frontEnd: {
          js: ["React" | "NextJS"],
