@@ -2,7 +2,7 @@
 
 ## Hi, 👋 I'm Qoosim || Full-Stack-Developer
 
-I am a full stack web developer with a passion for creating seamless and visually appealing user experience. Whether figuring out a difficult problem or crafting a beautiful user experience, as a Full Stack Developer, programming satisfies my desire for both constant learning and personal ongoing refinement. While I'm not coding, I love reading amazing books on psychology, learning a new language, or just researching on other languages. I am available for hire and ready to relocate or work remotely.
+I am a front-end web developer with a passion for creating seamless and visually appealing user experience. Whether figuring out a difficult problem or crafting a beautiful user experience, as a Full Stack Developer, programming satisfies my desire for both constant learning and personal ongoing refinement. While I'm not coding, I love reading amazing books on psychology, learning a new language, or just researching on other languages. I am available for hire and ready to relocate or work remotely.
 
 ### About me
 ````
